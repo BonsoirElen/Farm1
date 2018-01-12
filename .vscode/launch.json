@@ -9,7 +9,7 @@
             "type": "clr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net461/BonsoirFarm1.exe",
+            "program": "${workspaceFolder}/сборка/net461/BonsoirFarm1.exe",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",

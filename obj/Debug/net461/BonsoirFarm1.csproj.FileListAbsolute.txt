@@ -5,3 +5,7 @@ c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.Ass
 c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.AssemblyInfo.cs
 c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.exe
 c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.pdb
+c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\${workspaceFolder}\сборка\net461\BonsoirFarm1.exe
+c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\${workspaceFolder}\сборка\net461\BonsoirFarm1.pdb
+c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\сборка\net461\BonsoirFarm1.exe
+c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\сборка\net461\BonsoirFarm1.pdb
