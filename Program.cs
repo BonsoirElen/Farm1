@@ -13,7 +13,7 @@ namespace ИграПроФерму
 {
     class РецептФермера
     {
-        public string Имя;
+        public string Имя;   /// Имя игрока-фермера
 
     }
 
