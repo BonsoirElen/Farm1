@@ -3,15 +3,17 @@ using System;
 //using System.Drawing;
 using ДиминКод;
 
+
+
 ///   ╒═╕├─┤ │╘═╛
 
 ///   Основной модуль кода нашей программы
 namespace ИграПроФерму
-{   
+{
     class РецептФермера
     {
         public string Имя;
-        
+
     }
 
 
@@ -21,23 +23,18 @@ namespace ИграПроФерму
 
        public bool ДождьИдет = true;
 
-    } 
+    }
 
 
 
     class МояПрограмма
     {
-        public static int Сложить (int A, int B)
-        {
-            return A + B;
-        }
-
         static void Main (String[] ВходныеДанные)
         {
             РецептФермера МойФермер = new РецептФермера();
             РецептФермы МояФерма = new РецептФермы();
             Random ГенСлучДождя = new Random();
-            
+
             Console.WriteLine("Как вас называть?");             //  Консоль -> ВыводСтроки (...)
             МойФермер.Имя = Console.ReadLine();                      //  Консоль -> СчитатьСтроку ()
             Console.WriteLine("Как назвается ваша ферма?");
