@@ -13,6 +13,7 @@ namespace ДиминКод
         public virtual int ПроцессЖизниЗаДень ()
         {
             Настроение = Настроение - 10;
+            return 0;
         }
 
         public virtual void Гладить ()
@@ -33,6 +34,8 @@ namespace ДиминКод
             }
 
             СчетчикКормления = СчетчикКормления + 1;
+
+            return 0;
         }
     }
 
@@ -46,6 +49,7 @@ namespace ДиминКод
         public override int Кормить ()
         {
             Настроение = Настроение + 8;
+            return 0;
         }
 
         public void СпрятатьсяНаШкафуОтКирилла ()
