@@ -9,3 +9,10 @@ c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\${workspaceFolder}\сборка\n
 c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\${workspaceFolder}\сборка\net461\BonsoirFarm1.pdb
 c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\сборка\net461\BonsoirFarm1.exe
 c:\Users\User\Desktop\Code\CSharp\BonsoirFarm1\сборка\net461\BonsoirFarm1.pdb
+c:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirFarm1\сборка\net461\BonsoirFarm1.exe
+c:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirFarm1\сборка\net461\BonsoirFarm1.pdb
+c:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.csproj.CoreCompileInputs.cache
+c:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.AssemblyInfoInputs.cache
+c:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.AssemblyInfo.cs
+c:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.exe
+c:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirFarm1\obj\Debug\net461\BonsoirFarm1.pdb

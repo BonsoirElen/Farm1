@@ -9,23 +9,23 @@
     ".NETFramework,Version=v4.6.1": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\BonsoirElen\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\Code\\CSharp\\BonsoirFarm1\\BonsoirFarm1.csproj",
+      "projectUniqueName": "c:\\Users\\BonsoirElen\\Desktop\\Учимся программировать\\BonsoirFarm1\\BonsoirFarm1.csproj",
       "projectName": "BonsoirFarm1",
-      "projectPath": "c:\\Users\\User\\Desktop\\Code\\CSharp\\BonsoirFarm1\\BonsoirFarm1.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\Code\\CSharp\\BonsoirFarm1\\obj\\",
+      "projectPath": "c:\\Users\\BonsoirElen\\Desktop\\Учимся программировать\\BonsoirFarm1\\BonsoirFarm1.csproj",
+      "packagesPath": "C:\\Users\\BonsoirElen\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\BonsoirElen\\Desktop\\Учимся программировать\\BonsoirFarm1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BonsoirElen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
